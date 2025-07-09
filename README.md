@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My Tech
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_progress=true&theme=github_dark&hide=html,css)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailn16&layout=donut&hide_progress=true&theme=github_dark&hide=html,css)
 
 ## 🧱 Tech Stack
 
