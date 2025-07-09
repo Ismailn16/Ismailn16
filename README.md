@@ -1,13 +1,7 @@
 ## Hi there 👋
 
 ## My Tech
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailn16&layout=compact&theme=radical)
-
-## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ismailn16&show_icons=true&theme=radical)
-
-## My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ismailn16&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&hide_progress=true&theme=github_dark&hide=html,css)
 
 ## 🧱 Tech Stack
 
@@ -23,8 +17,3 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
----
-
-## 🔥 GitHub Heatmap
-
-![GitHub Contribution Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=Ismailn16&theme=tokyonight)
