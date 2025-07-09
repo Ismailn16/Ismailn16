@@ -1,4 +1,9 @@
 ## Hi there 👋
+## I am Abdul Noor, also known as Ismail! I am a software engineering graduate with a strong passion for fintech and consumer-facing products that address real-world problems. I enjoy working with cutting-edge technologies and constantly look for ways to push the boundaries of software development.
+
+## Recently finishing my dissertation exploring the intersection of blockchain technology and modern banking, I am focused on developing innovative finance solutions that leverage emerging technologies. In particular, I’m interested in applying machine learning to improve predictive accuracy, uncover patterns in complex financial data, and enable smarter, data-driven decision-making within the financial sector.
+
+
 
 ## My Tech
 ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismailn16&layout=donut&hide_progress=true&theme=github_dark&hide=html,css)
@@ -13,7 +18,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
