@@ -4,7 +4,7 @@ I am Abdul Noor, also known as Ismail! I am a software engineering graduate pass
 Recently finishing my dissertation on the intersection of blockchain technology and modern online banking, I’m focused on developing innovative finance solutions that leverage emerging technologies. In particular, I’m interested in applying machine learning to improve predictive accuracy, uncover patterns in complex financial data, and enable smarter, data-driven decision-making within the financial sector 📈
 
 
-## My Stats
+## 📊 My Stats
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismailn16&layout=compact&langs_count=8&card_width=190&hide_progress=true&theme=transparent" />
 </a>
