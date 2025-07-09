@@ -1,8 +1,7 @@
 ## Hi there 👋
-## I am Abdul Noor, also known as Ismail! I am a software engineering graduate with a strong passion for fintech and consumer-facing products that address real-world problems. I enjoy working with cutting-edge technologies and constantly look for ways to push the boundaries of software development.
+I am Abdul Noor, also known as Ismail! I am a software engineering graduate passionate about fintech and consumer-focused products that solve real-world problems. 
 
-## Recently finishing my dissertation exploring the intersection of blockchain technology and modern banking, I am focused on developing innovative finance solutions that leverage emerging technologies. In particular, I’m interested in applying machine learning to improve predictive accuracy, uncover patterns in complex financial data, and enable smarter, data-driven decision-making within the financial sector.
-
+Recently finishing my dissertation on the intersection of blockchain technology and modern online banking, I’m focused on developing innovative finance solutions that leverage emerging technologies. In particular, I’m interested in applying machine learning to improve predictive accuracy, uncover patterns in complex financial data, and enable smarter, data-driven decision-making within the financial sector.
 
 
 ## My Stats
