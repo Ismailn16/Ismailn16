@@ -4,11 +4,6 @@ I am Abdul Noor, also known as Ismail! I am a software engineering graduate pass
 Recently finishing my dissertation on the intersection of blockchain technology and modern online banking, I'm focused on developing innovative finance solutions that leverage emerging technologies. My dissertation work has sparked a deeper curiosity in blockchain technology beyond finance, and I'm particularly interested in applying these concepts across different areas within finance, exploring concepts like smart contracts and decentralised storage systems such as IPFS 📈
 
 
-## 📊 My Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismailn16&layout=compact&langs_count=8&card_width=190&hide_progress=true&theme=transparent" />
-</a>
-
 ## 🧱 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
