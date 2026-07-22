@@ -1,7 +1,10 @@
 ## Hi there 👋
-I am Abdul Noor, also known as Ismail! I am a software engineering graduate passionate about fintech and Web3/DeFi 🚀
+I am Abdul Noor, also known as Ismail! I am a Software Engineering graduate passionate about fintech and an interest in Web3/DeFi. 
 
-Recently finishing my dissertation on the intersection of blockchain technology and modern online banking, I'm focused on developing innovative finance solutions that leverage emerging technologies. My dissertation work has sparked a deeper curiosity in blockchain technology beyond finance, and I'm particularly interested in applying these concepts across different areas within finance, exploring concepts like smart contracts and decentralised storage systems such as IPFS 📈
+Recently completing my dissertation on the intersection of blockchain technology and modern online banking, I'm focused on developing innovative
+finance solutions that leverage emerging technologies. My dissertation work has sparked a deeper curiosity in blockchain technology and I'm particularly interested in applying these concepts across different areas within finance, exploring concepts like smart contracts.
+
+Most recently I built and shipped NotifX, a live App Store app helping traders stay ahead of market-moving economic events. I designed and built the entire backend infrastructure from the ground up, engineering a smart notification system that adapts in real time to user preferences and delivers alerts reliably at exactly the right moment 📈
 
 
 ## 🧱 Tech Stack
